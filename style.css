@@ -7,19 +7,19 @@ h1 {
 h2 {
   color: black;
 	font-size: 20px;
-	font-family:'Cormorant Upright', serif;
+	font-family:'Arial', serif;
 }
 
 h3 {
   color: black;
 	font-size: 18px;
-	font-family:'IM Fell English SC', serif;
+	font-family:'Arial', serif;
 }
 
 body {
   color: black;    
 	background-color: #0A0C0C;  
-	font-family:'Cormorant Upright', serif;
+	font-family:'Arial', serif;
 	background-image: url(images/background.jpg);
 	
 }
